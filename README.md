@@ -35,12 +35,57 @@ Finish Installation by Clicking on the "Install" button to begin the installatio
 
 ans:
 
+Initial Configurations and Settings that can be adjusted includes;
+
+1.Themes: Choose a theme that enhances readability and reduces eye strain, such as Solarized Dark or Monokai.
+2.Font Settings: Adjust the font size, family, and weight for optimal readability.
+3.Keybindings: Configure keyboard shortcuts to streamline workflows, such as using "Ctrl+S" for saving instead of the default "Cmd+S" on macOS.
+4.Extensions: Install essential extensions to enhance functionality, such as:
+Prettier: Automates code formatting and styling.
+
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 
+ans:
+
+Main Components of the VS Code User Interface includes;
+
+1. Activity Bar
+
+Located to the left of the workbench.
+Provides quick access to various tasks and functions:
+Extensions
+Source Control (Git, etc.)
+Debugging
+Terminal
+Allows users to easily switch between different workspace features.
+2. Side Bar
+
+Located next to the Activity Bar.
+Displays the project files and folders.
+Provides options for file browsing, search, and editing.
+Can be customized to show additional viewers, such as Symbol Explorer or Outline.
+3. Editor Group
+
+Occupies the central area of the workbench.
+Contains the open files and allows for code editing.
+Users can create multiple editor groups to work on different files simultaneously.
+Provides features such as syntax highlighting, code completion, and debugging tools.
+4. Status Bar
+
+Located at the bottom of the workbench.
+Displays information about the current file, such as:
+Line and column number
+Encoding
+Language mode
+Also provides shortcuts to various actions. 
+
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
+
+ans:
+
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
