@@ -86,9 +86,44 @@ Also provides shortcuts to various actions.
 
 ans:
 
+The Command Palette is a feature in Visual Studio Code (VS Code) that provides a centralized interface to access commands, search for settings, and quickly navigate the IDE.
+
+How to Access the Command Palette:
+
+Windows/Linux: Ctrl + Shift + P
+macOS: Cmd + Shift + P
+Common Tasks Performed Using the Command Palette:
+
+Searching for Commands:
+
+Type a command name or a keyword to filter the available commands.
+For example: Typing "find" will show commands related to finding text or files.
+Executing Commands:
+
+Select a command from the list to execute it.
+For example: Executing the "Show All References" command finds all references to the current symbol.
+Modifying Settings:
+
+Type "settings" in the Command Palette to access the settings editor.
+You can search for specific settings or modify them directly.
+Navigating the IDE:
+
+Type "open file" to open a file.
+Type "peek definition" to view the definition of the current function or variable.
+Other Common Tasks:
+
+Create a new file or project
+Toggle between open files
+Start debugging
+Remove line breaks
+Install/uninstall extensions
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+
+ans:
+
+
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
